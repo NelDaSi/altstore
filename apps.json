@@ -12,7 +12,7 @@
       "developerName": "Neldasi",
       "subtitle": "Data Matrix code scanner",
       "localizedDescription": "Scan Data Matrix codes quickly with your iPhone.",
-      "iconURL": "https://neldasi.github.io/altstore/icon.png",
+      "iconURL": "https://neldasi.github.io/altstore/icons/dafscanner.png",
       "tintColor": "#0B3D91",
       "versions": [
         {
