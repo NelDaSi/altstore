@@ -42,6 +42,30 @@
           "NSCameraUsageDescription": "Used to scan Data Matrix codes."
         }
       }
+    },
+    {
+      "name": "UitZoekAktie",
+      "bundleIdentifier": "neldasi.UitZoekAktie",
+      "developerName": "Neldasi",
+      "subtitle": "",
+      "localizedDescription": "Initial release.",
+      "iconURL": "https://neldasi.github.io/altstore/icons/uitzoekaktie.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-06",
+          "localizedDescription": "Initial release.",
+          "downloadURL": "https://github.com/NelDaSi/altstore/releases/download/uitzoekaktie-v1.0/uitzoekaktie-1.0.ipa",
+          "size": 179606,
+          "sha256": "abe8a21efeb2cf8b82a9b39786eaf2bceba059152580aeefac9708fca5ac5a25",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
